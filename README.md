@@ -3,14 +3,16 @@
 Este programa desenvolvido em java converte o dolar para as seguintes moedas (BRL) (ARS) (COP) atraves de um menu no terminal da ide
 
 🇺🇸 Dólar Americano (USD)
+
 🇦🇷 Peso Argentino (ARS)
+
 🇧🇷 Real Brasileiro (BRL)
+
 🇨🇴 Peso Colombiano (COP)
 
 # Tecnologias usadas
 
 Java
-
 
 Gson para manipulação de JSON
 
