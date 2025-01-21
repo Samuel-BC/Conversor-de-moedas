@@ -18,4 +18,5 @@ Gson para manipulação de JSON
 
 ExchangeRate-API para obtenção das taxas de câmbio em tempo real
 
-# O objetivo deste projeto foi consolidar os conhecimentos adiquiridos na trilha Java e Orientação a Objetos - ORACLE ONE ALURA
+-----------------------------------------------------------------------------------------------------------------------------
+O objetivo deste projeto foi consolidar os conhecimentos adiquiridos na trilha Java e Orientação a Objetos - ORACLE ONE ALURA
